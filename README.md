@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Luhn's Algorithm</title>
+    <h1>Luhn's Algorithm</h1>
 </head>
 
 <body>
