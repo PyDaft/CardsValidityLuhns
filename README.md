@@ -5,7 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Luhn's Algorithm</title>
     <style>
-        /* Add any custom CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            color: #333;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        p {
+            color: #666;
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        ol {
+            color: #444;
+            font-size: 16px;
+            margin-left: 20px;
+        }
+        li {
+            margin-bottom: 5px;
+        }
     </style>
 </head>
 <body>
